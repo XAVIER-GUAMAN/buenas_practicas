@@ -1,0 +1,19 @@
+{
+  "name": "buenas_practicas",
+  "version": "0.1.0",
+  "description": "Scafolding of a Vue proyect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XAVIER-GUAMAN/buenas_practicas.git"
+  },
+  "author": "Xavier Guaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XAVIER-GUAMAN/buenas_practicas/issues"
+  },
+  "homepage": "https://github.com/XAVIER-GUAMAN/buenas_practicas#readme"
+}
